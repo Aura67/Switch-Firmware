@@ -37,7 +37,7 @@ unrelated to the STOCK/OFW/SYSMMC as it is a different entity after
 creation. You can install and run anything here, like game backups, 
 homebrews, etc.
 
-# Please watch this video if you don't understand what a Sysmmc /Emummc/ofw is
+# Please watch this video if you don't understand what a Sysmmc / Emummc / Stock is
 - https://www.youtube.com/watch?v=P9W7OwmqloM
 
 ## Note: In order to keep Emummc permanently offline you should update it with daybreak with my last releases. I would only update via the Internet in Sysmmc!
