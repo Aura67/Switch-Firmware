@@ -8,6 +8,10 @@
 - [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere/releases/) 
 - [Hekate](https://github.com/CTCaer/hekate/releases/)
 
+# CREDIT
+- SciresM
+- CTCaer
+
 # How do you Install the Firmware?
 
 - 1: Download my last Releases
@@ -34,7 +38,4 @@ homebrews, etc.
 
 ## Note: In order to keep Emummc permanently offline you should update it with daybreak with my last releases. I would only update via the Internet in Sysmmc!
 
-# CREDIT
-- SciresM
-- CTCaer
 
