@@ -3,7 +3,7 @@
 
 ## [Download latest releases from the page.](https://github.com/Aura67/Switch-Firmware/releases)
 
-# Download the latest CFW update
+# Download the latest CFW Update
 - [last releases CFW Package from me without Piracy](https://github.com/Aura67/CFW-Packages-/releases/) 
 - [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere/releases/) 
 - [Hekate](https://github.com/CTCaer/hekate/releases/)
