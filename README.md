@@ -1,5 +1,8 @@
 # Nx-Firmware for the Switch
-## Download the lastet Firmware for the Switch   
+## Download the lastet Firmware for the Switch
+
+## [Download latest releases from the page.](https://github.com/Aura67/Switch-Firmware/releases)
+
 ### how do you install the Firmware?
 - 1: Download my last Releases
 - 2: unpack the Firmware with winrar or 7zip
