@@ -19,9 +19,9 @@
 - 8: Enjoy
 
 ## Note: Before you update your CFW with my last releases, check first whether it has Support or whether it needs new Support!
-- If you need help Updating then you can either join my Discord [Aura-Discord](https://discord.gg/Kz78AQhBQw/) or you can open an issue. But Discord is easier!
+- If you need help with an Update, open an Issues
 
-## WHAT IS SYSMMC / EMUMMC / STOCK
+  ## WHAT IS SYSMMC / EMUMMC / STOCK
 - STOCK is OFW. It is the actual factory firmware that comes from the factory
 - SYSMMC is OFW with patches or CFW. You can run homebrews on it but do not install game backups on this
   world unless you know what you are doing and its consequences. It reflects the OFW/STOCK itself.
