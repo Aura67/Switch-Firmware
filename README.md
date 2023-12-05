@@ -3,7 +3,7 @@
 
 ## [Download latest releases from the page.](https://github.com/Aura67/Switch-Firmware/releases)
 
-# How do you install the Firmware?
+# How do you Install the Firmware?
 
 - 1: Download my last Releases
 - 2: unpack the Firmware with winrar or 7zip
