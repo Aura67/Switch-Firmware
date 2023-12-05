@@ -3,6 +3,10 @@
 
 ## [Download latest releases from the page.](https://github.com/Aura67/Switch-Firmware/releases)
 
+# Download the latest CFW update
+- [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere/releases/) 
+- [Hekate](https://github.com/CTCaer/hekate/releases/)
+
 # How do you Install the Firmware?
 
 - 1: Download my last Releases
@@ -25,4 +29,8 @@ creation. You can install and run anything here, like game backups,
 homebrews, etc.
 
 ## Note: In order to keep Emummc permanently offline you should update it with daybreak with my last releases. I would only update via the Internet in Sysmmc!
+
+# CREDIT
+- SciresM
+- CTCaer
 
