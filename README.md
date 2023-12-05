@@ -9,4 +9,6 @@
 - 6: Select the Firmware folder with the contents and click through
 - 7: check your Firmware in system settings
 - 8: Enjoy
+  
+# Note: In order to keep Emummc permanently offline you should update it with daybreak with my last releases. I would only update via the Internet in Sysmmc!
 
