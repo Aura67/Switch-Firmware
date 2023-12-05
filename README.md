@@ -11,6 +11,7 @@
 # CREDIT
 - SciresM
 - CTCaer
+- Sthetix
 
 # How do you Install the Firmware?
 
@@ -26,7 +27,7 @@
 ## Note: Before you update your CFW with my last releases, check first whether it has Support or whether it needs new Support!
 - If you need help with an Update, open an Issues
 
-  ## WHAT IS SYSMMC / EMUMMC / STOCK
+## WHAT IS SYSMMC / EMUMMC / STOCK
 - STOCK is OFW. It is the actual factory firmware that comes from the factory
 - SYSMMC is OFW with patches or CFW. You can run homebrews on it but do not install game backups on this
   world unless you know what you are doing and its consequences. It reflects the OFW/STOCK itself.
@@ -35,6 +36,9 @@ inside the micro SD card, and it is always in the CFW method. It is
 unrelated to the STOCK/OFW/SYSMMC as it is a different entity after 
 creation. You can install and run anything here, like game backups, 
 homebrews, etc.
+
+# Please watch this video if you don't understand what a Sysmmc /Emummc/ofw is
+- https://www.youtube.com/watch?v=P9W7OwmqloM
 
 ## Note: In order to keep Emummc permanently offline you should update it with daybreak with my last releases. I would only update via the Internet in Sysmmc!
 
