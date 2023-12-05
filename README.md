@@ -18,6 +18,9 @@
 - 7: check your Firmware in system settings
 - 8: Enjoy
 
+## Note: Before you update your CFW with my last releases, check first whether it has support or whether it needs new support!
+- If you need help Updating then you can either join my Discord [Discord](https://discord.gg/Kz78AQhBQw/) or you can open an issue. But Discord is easier!
+
 ## WHAT IS SYSMMC / EMUMMC / STOCK
 - STOCK is OFW. It is the actual factory firmware that comes from the factory
 - SYSMMC is OFW with patches or CFW. You can run homebrews on it but do not install game backups on this
