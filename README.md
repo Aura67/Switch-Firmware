@@ -8,7 +8,7 @@
 - [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere/releases/) 
 - [Hekate](https://github.com/CTCaer/hekate/releases/)
 
-## Note: Note: Before you update your CFW with my last releases, check first whether it has Support or whether it needs new Support, it may be that Atmosphère and Hekate need an update for the new Switch Firmware. I will always adjust Atmospehre and Hekate so that you don't have any problems with my releases!
+## Note: Before you update your CFW with my last releases, check first whether it has Support or whether it needs new Support, it may be that Atmosphère and Hekate need an update for the new Switch Firmware. I will always adjust Atmospehre and Hekate so that you don't have any problems with my releases!
 - If you need help with an Update, open an Issues
 
 # CREDIT
