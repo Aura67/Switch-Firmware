@@ -27,11 +27,12 @@
 - 7: Select the Firmware from your root directory.
 - 8: Tap on Continue and then Preserve settings.
 -    If you see the message Warning: exFAT firmware is missing or corrupt, you likely don't have the exFAT driver
+-    installed on your sysMMC. Just press continue if this is the case.
 - 8: If it is available choose Install (FAT32 + exFAT), otherwise Install (FAT32) and then Continue.
 - 10: Wait until Daybreak completes installing the dumped firmware
 - 11: Once it completes, it will ask if you want to reboot. Tap Reboot.
 - 12: Once rebooted, launch into emuMMC and verify your system works. You can verify your system has been properly updated in Settings -> System.
-- 13: Enjoy.  
+- 13: Enjoy.
 
 ## WHAT IS SYSMMC / EMUMMC / STOCK
 - STOCK is OFW. It is the actual factory firmware that comes from the factory
