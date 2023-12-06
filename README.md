@@ -16,16 +16,22 @@
 - CTCaer
 - Sthetix
 
-# How do you Install the Firmware?
+# Updating your emuMMC with Daybreak
 
 - 1: Download my last Releases
 - 2: unpack the Firmware with winrar or 7zip
 - 3: Copy the entire contents into your root directory of your memory card
 - 4: Put your memory card back into your Switch and start your console with the fusee.bin payload
-- 5: Click on your album or hold R and start the homebrew menu and select daybreak
-- 6: Select the Firmware folder with the contents and click through
-- 7: check your Firmware in system settings
-- 8: Enjoy
+- 5: Once booted, hold R while launching a game to boot into the homebrew menu.
+- 6: Find Daybreak in the homebrew menu and launch it.
+- 7: Select the Firmware from your root directory.
+- 8: Tap on Continue and then Preserve settings.
+-    If you see the message Warning: exFAT firmware is missing or corrupt, you likely don't have the exFAT driver
+- 8: If it is available choose Install (FAT32 + exFAT), otherwise Install (FAT32) and then Continue.
+- 10: Wait until Daybreak completes installing the dumped firmware
+- 11: Once it completes, it will ask if you want to reboot. Tap Reboot.
+- 12: Once rebooted, launch into emuMMC and verify your system works. You can verify your system has been properly updated in Settings -> System.
+- 13: Enjoy.  
 
 ## WHAT IS SYSMMC / EMUMMC / STOCK
 - STOCK is OFW. It is the actual factory firmware that comes from the factory
