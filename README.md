@@ -8,6 +8,9 @@
 - [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere/releases/) 
 - [Hekate](https://github.com/CTCaer/hekate/releases/)
 
+## Note: Before you update your CFW with my last releases, check first whether it has Support or whether it needs new Support, it may be that Atmosphère and Hekate need an update for the new Switch Firmware!
+- If you need help with an Update, open an Issues
+
 # CREDIT
 - SciresM
 - CTCaer
@@ -24,9 +27,6 @@
 - 7: check your Firmware in system settings
 - 8: Enjoy
 
-## Note: Before you update your CFW with my last releases, check first whether it has Support or whether it needs new Support!
-- If you need help with an Update, open an Issues
-
 ## WHAT IS SYSMMC / EMUMMC / STOCK
 - STOCK is OFW. It is the actual factory firmware that comes from the factory
 - SYSMMC is OFW with patches or CFW. You can run homebrews on it but do not install game backups on this
@@ -41,5 +41,8 @@ homebrews, etc.
 - https://www.youtube.com/watch?v=P9W7OwmqloM
 
 ## Note: In order to keep Emummc permanently offline you should update it with daybreak with my last releases. I would only update via the Internet in Sysmmc!
+
+### Support Discord Developer
+- [Aura-Discord]([Discord](https://discord.gg/Kz78AQhBQw) (Do you want to support me as a Developer? then you are welcome to join my Discord server. You can use my Sysbot for Pokemon for free if you want.
 
 
