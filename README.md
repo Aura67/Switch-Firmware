@@ -43,6 +43,6 @@ homebrews, etc.
 ## Note: In order to keep Emummc permanently offline you should update it with daybreak with my last releases. I would only update via the Internet in Sysmmc!
 
 ### Support Discord Developer
-- [Aura-Discord]([Discord](https://discord.gg/Kz78AQhBQw) (Do you want to support me as a Developer? then you are welcome to join my Discord server. You can use my Sysbot for Pokemon for free if you want.
+- [Aura-Discord]([Discord](https://discord.gg/Kz78AQhBQw) Do you want to support me as a Developer? then you are welcome to join my Discord server. You can use my Sysbot for Pokemon for free if you want.
 
 
