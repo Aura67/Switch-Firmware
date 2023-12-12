@@ -20,6 +20,8 @@
 - SciresM
 - CTCaer
 - Sthetix
+- meganukebmp
+- suchmememanyskill
 
 # Updating your emuMMC with Daybreak
 
@@ -54,6 +56,9 @@ homebrews, etc.
 
 ## Note: In order to keep Emummc permanently offline you should update it with daybreak with my last releases. I would only update via the Internet in Sysmmc!
 
+# Set the 90 DNS in Emummc with the Tool
+- [90dns-setter](https://github.com/suchmememanyskill/switch-90dns-setter/releases/) 
 
-
+# 90 DNS test with
+- [90DNS](https://github.com/meganukebmp/Switch_90DNS_tester/releases/) 
 
