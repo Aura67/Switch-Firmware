@@ -14,9 +14,9 @@
 - [Hekate](https://github.com/CTCaer/hekate/releases/)
 
 # Set the 90 DNS in Emummc with the Tool
-- [90dns-setter](https://github.com/suchmememanyskill/switch-90dns-setter/releases/) 
-
-# 90 DNS test with
+- [90dns-setter](https://github.com/suchmememanyskill/switch-90dns-setter/releases/)
+ 
+ # 90 DNS test with
 - [90DNS](https://github.com/meganukebmp/Switch_90DNS_tester/releases/) 
 
 ## Note: Before you update your CFW with my last releases, check first whether it has Support or whether it needs new Support, it may be that Atmosphère and Hekate need an update for the new Switch Firmware. I will always adjust Atmospehre and Hekate so that you don't have any problems with my releases!
