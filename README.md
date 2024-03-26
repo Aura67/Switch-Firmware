@@ -23,7 +23,7 @@
 ## - If you need help with an Update, open an Issues
 
 # Piracy is not supported
-## I will never support Piracy because I am not a fan of stealing anything.
+## I will never support Piracy because I am not a fan of stealing anything
 
 # CREDIT
 - SciresM
