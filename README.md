@@ -19,8 +19,11 @@
  # 90 DNS test with
 - [90DNS](https://github.com/meganukebmp/Switch_90DNS_tester/releases/) 
 
-## Note: Before you update your CFW with my last releases, check first whether it has Support or whether it needs new Support, it may be that Atmosphère and Hekate need an update for the new Switch Firmware. I will always adjust Atmospehre and Hekate so that you don't have any problems with my releases!
-- If you need help with an Update, open an Issues
+# Note: Before you update your CFW with my last releases, check first whether it has Support or whether it needs new Support, it may be that Atmosphère and Hekate need an update for the new Switch Firmware. I will always adjust Atmospehre and Hekate so that you don't have any problems with my releases!
+## - If you need help with an Update, open an Issues
+
+# Piracy is not supported
+## I will never support Piracy because I am not a fan of stealing anything.
 
 # CREDIT
 - SciresM
