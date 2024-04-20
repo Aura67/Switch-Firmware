@@ -32,6 +32,10 @@
 - meganukebmp
 - suchmememanyskill
 
+# With this method, the switch does not burn any fuses during the Firmware update, which means you can always downgrade
+
+- Follow this Guide, these are easy steps!
+
 # Updating your emuMMC with Daybreak
 
 - 1: Download my last Releases
