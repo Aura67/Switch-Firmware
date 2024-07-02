@@ -9,7 +9,6 @@
 # ![Hekate](https://github.com/Aura67/Switch-Firmware/assets/152577275/c7807a1a-a907-4e89-980a-8f0b8277920d)
 
 # Download the latest CFW Update
-- [last releases CFW Package from me without Piracy](https://github.com/Aura67/CFW-Packages-/releases/) 
 - [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere/releases/) 
 - [Hekate](https://github.com/CTCaer/hekate/releases/)
 
