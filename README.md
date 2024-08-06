@@ -60,11 +60,13 @@
 - EMUMMC is the emulated SYSMMC. It copied itself from the OFW and placed 
 inside the micro SD card, and it is always in the CFW method. It is 
 unrelated to the STOCK/OFW/SYSMMC as it is a different entity after 
-creation. You can install and run anything here, like game backups, 
-homebrews, etc.
+creation.
 
 # Please watch this video if you don't understand what a Sysmmc / Emummc / Stock is
 - https://www.youtube.com/watch?v=P9W7OwmqloM
+
+# how to create an Emummc 
+- https://www.youtube.com/watch?v=up_sjzKHFeU
 
 ## Note: In order to keep Emummc permanently offline you should update it with daybreak with my last releases. I would only update via the Internet in Sysmmc!
 
