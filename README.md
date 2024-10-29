@@ -1,5 +1,4 @@
 # Nx-Firmware for the Switch
-## Download the lastet Firmware for the Switch
 
 ## [Download latest releases from the page.](https://github.com/Aura67/Switch-Firmware/releases)
 
