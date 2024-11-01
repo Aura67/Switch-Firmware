@@ -54,8 +54,7 @@
 
 ## WHAT IS SYSMMC / EMUMMC / STOCK
 - STOCK is OFW. It is the actual factory firmware that comes from the factory
-- SYSMMC is OFW with patches or CFW. You can run homebrews on it but do not install game backups on this
-  world unless you know what you are doing and its consequences. It reflects the OFW/STOCK itself.
+- SYSMMC is OFW with patches or CFW. You can run homebrews on. It piracy is not supported, buy the games reflects the OFW/STOCK itself.
 - EMUMMC is the emulated SYSMMC. It copied itself from the OFW and placed 
 inside the micro SD card, and it is always in the CFW method. It is 
 unrelated to the STOCK/OFW/SYSMMC as it is a different entity after 
