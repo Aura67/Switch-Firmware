@@ -22,7 +22,6 @@
 # CREDIT
 - SciresM
 - CTCaer
-- Sthetix
 - meganukebmp
 - suchmememanyskill
 
