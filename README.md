@@ -45,9 +45,17 @@
 - 10: Wait until Daybreak completes installing the dumped firmware
 - 11: Once it completes, it will ask if you want to reboot. Tap Reboot.
 - 12: Once rebooted, launch into emuMMC and verify your system works. You can verify your system has been properly updated in Settings -> System.
-- 13: Enjoy.
 
-## WHAT IS SYSMMC / EMUMMC / STOCK
+# How to create an emuMMC
+
+- 1: Navigate to Tools > Partition SD card
+- 2: Set the emuMMC (RAW) slider to 29 FULL in the middle of the bar.
+   Set the emuMMC (RAW) slider to 58 FULL if you're on an OLED Switch.
+- 3: Navigate to Next Step at the bottom right, then select Start in the menu that appears. 
+- 4: From hekate's Home menu, navigate to emuMMC > Create emuMMC > SD Partition > Part 1 and wait for Hekate to complete creating the emuMMC
+- 5: Close the emuMMC creation menu by navigating to the Close button, then navigate to Change emuMMC > SD RAW 1 and press the Close button twice in the top right to return to hekate's Home menu.
+ 
+ # WHAT IS SYSMMC / EMUMMC / STOCK
 - STOCK is OFW. It is the actual factory firmware that comes from the factory
 - SYSMMC is OFW with patches or CFW. You can run homebrews on. It piracy is not supported, buy the games reflects the OFW/STOCK itself.
 - EMUMMC is the emulated SYSMMC. It copied itself from the OFW and placed 
@@ -57,9 +65,6 @@ creation.
 
 # Please watch this video if you don't understand what a Sysmmc / Emummc / Stock is
 - https://www.youtube.com/watch?v=P9W7OwmqloM
-
-# how to create an Emummc 
-- https://www.youtube.com/watch?v=up_sjzKHFeU
 
 ## Note: In order to keep Emummc permanently offline you should update it with daybreak with my last releases. I would only update via the Internet in Sysmmc!
 
