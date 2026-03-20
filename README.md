@@ -22,6 +22,7 @@ Note: If people download my Ams.Package.without.Piracy.for.FM21 and add piracy c
   
 
 # CREDIT
+- hexkyz
 - SciresM
 - CTCaer
 - meganukebmp
