@@ -10,23 +10,14 @@
 - [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere/releases/) 
 - [Hekate](https://github.com/CTCaer/hekate/releases/)
 
-# Set the 90 DNS in Emummc with the Tool
-- [90dns-setter](https://github.com/suchmememanyskill/switch-90dns-setter/releases/)
- 
- # 90 DNS test with
-- [90DNS](https://github.com/meganukebmp/Switch_90DNS_tester/releases/) 
-
 # Piracy is not supported
 Note: If people download my Ams.Package.without.Piracy.for.FM and add piracy content to it, I will not accept any liability as Piracy is not Supported!
 - I will never support Piracy because I am not a fan of stealing anything
-  
 
 # CREDIT
 - hexkyz
 - SciresM
 - CTCaer
-- meganukebmp
-- suchmememanyskill
 
 # Updating your emuMMC with Daybreak
 
