@@ -17,9 +17,12 @@ Note: If people download my Ams.Package.without.Piracy.for.FM and add piracy con
 - I will never support Piracy because I am not a fan of stealing anything
 
 # CREDIT
-- hexkyz
-- SciresM
-- CTCaer
+
+| Thank | to                       |
+| -------- | -------------------------------- |
+| hexkyz  | for Atmosphere who continues to work on the project |
+| SciresM    | for Atmosphere who developed this project  |
+| CTCaer | for hekate|
 
 # Updating your emuMMC with Daybreak
 
