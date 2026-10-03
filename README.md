@@ -1,14 +1,16 @@
 # Nx-Firmware for the Switch
 
-## [Download latest releases from the page.](https://github.com/Aura67/Switch-Firmware/releases)
-
 # ![banner](https://github.com/Aura67/Switch-Firmware/assets/152577275/c77e0faf-ad6c-4611-89f5-85ddd9adb59b)
 
 # ![Hekate](https://github.com/Aura67/Switch-Firmware/assets/152577275/c7807a1a-a907-4e89-980a-8f0b8277920d)
 
-# Download the latest CFW Update
-- [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere/releases/) 
-- [Hekate](https://github.com/CTCaer/hekate/releases/)
+## latest CFW Update
+
+| Download | latest CFW Update                       |
+| -------- | -------------------------------- |
+| Atmosphere | https://github.com/Atmosphere-NX/Atmosphere/releases |
+| Hekate     | https://github.com/CTCaer/hekate/releases|
+| latest releases from the page | https://github.com/Aura67/Switch-Firmware/releases|
 
 # Piracy is not supported
 Note: If people download my Ams.Package.without.Piracy.for.FM and add piracy content to it, I will not accept any liability as Piracy is not Supported!
