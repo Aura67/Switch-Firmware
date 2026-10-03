@@ -16,7 +16,7 @@
 Note: If people download my Ams.Package.without.Piracy.for.FM and add piracy content to it, I will not accept any liability as Piracy is not Supported!
 - I will never support Piracy because I am not a fan of stealing anything
 
-# CREDIT
+## CREDIT
 
 | Thank | to                       |
 | -------- | -------------------------------- |
