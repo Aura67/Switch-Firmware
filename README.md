@@ -9,8 +9,8 @@
 | Download | latest CFW Update                       |
 | -------- | -------------------------------- |
 | Atmosphere | https://github.com/Atmosphere-NX/Atmosphere/releases |
-| Hekate     | https://github.com/CTCaer/hekate/releases|
-| latest releases from the page | https://github.com/Aura67/Switch-Firmware/releases|
+| Hekate | https://github.com/CTCaer/hekate/releases|
+| latest releases | https://github.com/Aura67/Switch-Firmware/releases|
 
 # Piracy is not supported
 Note: If people download my Ams.Package.without.Piracy.for.FM and add piracy content to it, I will not accept any liability as Piracy is not Supported!
