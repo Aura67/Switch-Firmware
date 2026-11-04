@@ -1,4 +1,4 @@
-# Nx-Firmware for the Switch
+## Nx-Firmware for the Switch
 
 # ![banner](https://github.com/Aura67/Switch-Firmware/assets/152577275/c77e0faf-ad6c-4611-89f5-85ddd9adb59b)
 
@@ -12,9 +12,8 @@
 | Hekate | https://github.com/CTCaer/hekate/releases|
 | latest releases | https://github.com/Aura67/Switch-Firmware/releases|
 
-# Piracy is not supported
+## Piracy is not supported
 Note: If people download my Ams.Package.without.Piracy.for.FM and add piracy content to it, I will not accept any liability as Piracy is not Supported!
-- I will never support Piracy because I am not a fan of stealing anything
 
 ## CREDIT
 
@@ -24,7 +23,7 @@ Note: If people download my Ams.Package.without.Piracy.for.FM and add piracy con
 | SciresM    | for Atmosphere who developed this project  |
 | CTCaer | for hekate|
 
-# Updating your emuMMC with Daybreak
+## Updating your emuMMC with Daybreak
 
 - 1: Download my last Releases
 - 2: unpack the Firmware with winrar or 7zip
@@ -41,7 +40,7 @@ Note: If people download my Ams.Package.without.Piracy.for.FM and add piracy con
 - 11: Once it completes, it will ask if you want to reboot. Tap Reboot.
 - 12: Once rebooted, launch into emuMMC and verify your system works. You can verify your system has been properly updated in Settings -> System.
 
-# How to create an emuMMC
+## How to create an emuMMC
 
 - 1: Navigate to Tools > Partition SD card
 - 2: Set the emuMMC (RAW) slider to 29 FULL in the middle of the bar.
@@ -50,16 +49,13 @@ Note: If people download my Ams.Package.without.Piracy.for.FM and add piracy con
 - 4: From hekate's Home menu, navigate to emuMMC > Create emuMMC > SD Partition > Part 1 and wait for Hekate to complete creating the emuMMC
 - 5: Close the emuMMC creation menu by navigating to the Close button, then navigate to Change emuMMC > SD RAW 1 and press the Close button twice in the top right to return to hekate's Home menu.
  
- # WHAT IS SYSMMC / EMUMMC / STOCK
+ ## WHAT IS SYSMMC / EMUMMC / STOCK
 - STOCK is OFW. It is the actual factory firmware that comes from the factory
 - SYSMMC is OFW with patches or CFW. You can run homebrews on. It piracy is not supported, buy the games reflects the OFW/STOCK itself.
 - EMUMMC is the emulated SYSMMC. It copied itself from the OFW and placed 
 inside the micro SD card, and it is always in the CFW method. It is 
 unrelated to the STOCK/OFW/SYSMMC as it is a different entity after 
 creation.
-
-# Please watch this video if you don't understand what a Sysmmc / Emummc / Stock is
-- https://www.youtube.com/watch?v=P9W7OwmqloM
 
 ## Note: In order to keep Emummc permanently offline you should update it with daybreak with my last releases. I would only update via the Internet in Sysmmc!
 
