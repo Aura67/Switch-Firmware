@@ -57,7 +57,7 @@ inside the micro SD card, and it is always in the CFW method. It is
 unrelated to the STOCK/OFW/SYSMMC as it is a different entity after 
 creation.
 
-## Note: In order to keep Emummc permanently offline you should update it with daybreak with my last releases. I would only update via the Internet in Sysmmc!
+
 
 
 
